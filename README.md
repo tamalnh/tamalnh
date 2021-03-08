@@ -5,5 +5,5 @@
 - 🔭 I’m currently working at Devscorn 
 - 🌱 I’m currently learning about Data Structures
 - 👯 I’m looking to collaborate on Basic Web Dev stuff
-- 🤔 I’m looking for help in learning about 
+- 🤔 I’m looking for help in learning Vue.js
 - 💬 Ask me about anything and everything 
